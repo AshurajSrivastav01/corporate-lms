@@ -451,7 +451,7 @@ Planned documentation includes:
 | Area                  | Status     |
 | --------------------- | ---------- |
 | Project Planning      | 🟢 Started |
-| Moodle Setup          | ⚪ Pending  |
+| Moodle Setup          | 🟢 Pending  |
 | Corporate Branding    | ⚪ Pending  |
 | User Management       | ⚪ Pending  |
 | Course Management     | ⚪ Pending  |
